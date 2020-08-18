@@ -6,8 +6,7 @@
       "name": "INTERNSHALA-0820-ASSIGN1-TRUPTI.ipynb",
       "provenance": [],
       "collapsed_sections": [],
-      "authorship_tag": "ABX9TyOaEopC3Mxfh+dEi6ip9Sru",
-      "include_colab_link": true
+      "authorship_tag": "ABX9TyOaEopC3Mxfh+dEi6ip9Sru"
     },
     "kernelspec": {
       "name": "python3",
@@ -16,16 +15,6 @@
     "accelerator": "GPU"
   },
   "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/truptisatsangi/git_repo1/blob/master/FACE%20RECOGNITION\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
     {
       "cell_type": "code",
       "metadata": {
